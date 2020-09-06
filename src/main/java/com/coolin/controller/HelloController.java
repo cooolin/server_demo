@@ -15,8 +15,8 @@ public class HelloController {
 
     @RequestMapping("/index")
     public String hello(){
-        return "文杰大傻子";
-    }
+        return "传奇大傻子";
+    }//修改by袁文杰
 
     @RequestMapping("/user")
     public Object user(){
